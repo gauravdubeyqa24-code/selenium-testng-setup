@@ -1,0 +1,51 @@
+# Maven
+target/
+.m2/
+*.jar
+*.war
+*.ear
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+pom.xml.asc
+*.versionsBackup
+.maven.xml
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+.classpath
+.project
+.settings/
+
+# Test outputs
+test-output/
+logs/
+screenshots/
+reports/
+
+# Node (if using npm)
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Python (if using pip)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
